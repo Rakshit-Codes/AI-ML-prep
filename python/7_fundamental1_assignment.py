@@ -101,11 +101,11 @@
 # • integer part - 45
 # • fractional part - .78
 
-num1 = float(input("Enter your float: "))
+# num1 = float(input("Enter your float: "))
 
-integer_part = int(num1)
-fractional_part = num1 - integer_part
-print("integer part -", integer_part, "fractional part - ",fractional_part)
+# integer_part = int(num1)
+# fractional_part = num1 - integer_part
+# print("integer part -", integer_part, "fractional part - ",fractional_part)
 
 
 
